@@ -1,6 +1,10 @@
 ## أهلا وسهلا بكم في قائمة موقع كلان ليجند
 
-You can use the [editor on GitHub](https://github.com/Legend-n/Legend-n.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+موقعنا الان تحت البرمجة ف نتمنى منكم الأنتظار حتى ننتهي من أطلاق الموقع الخاص بنا
+
+لأي مشاكل او أقتراحات قم بالتواصل معنا على الديسكورد الخاص بنا
+
+" https://discord.gg/QNbM7Uy "
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
