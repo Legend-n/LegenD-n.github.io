@@ -1,1 +1,4 @@
-# Legend-n.github.io
+# @ The Legend eSports 
+
+
+" Discord : https://discord.gg/ENgRsCF "
