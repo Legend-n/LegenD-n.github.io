@@ -1,6 +1,14 @@
 ## The Legend eSports
 
-You can use the [editor on GitHub](https://github.com/Legend-n/Legend-n.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+يتمنى لكم فريق ليجند سبورت تحية طيبة ونرحب بكم في الكلان لمعرفة جميع الأخبار والحصريات قم بالتوجهه للديسكورد
+
+والبحث عن ما هو جديد وحصري ,
+
+" https://discord.gg/QNbM7Uy "
+
+`` يرجى منك أيضاء قراءة القوانين كي لاتتعرض للحظر ``
+``#・laws``
+
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
